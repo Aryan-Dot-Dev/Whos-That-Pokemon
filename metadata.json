@@ -1,0 +1,7 @@
+{
+  "name": "PokéGuess Mastery: Gemini Edition",
+  "description": "An AI-enhanced Pokémon guessing game with classic anime vibes. Use the Dexter AI Assistant (Gemini) to decode mysterious clues and identify targets.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
